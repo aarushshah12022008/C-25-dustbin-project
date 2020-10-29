@@ -1,1 +1,2 @@
-# C-25-dustbin-project
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
